@@ -1,0 +1,21 @@
+UPLOAD INSTRUCTIONS
+
+1. Download and extract this ZIP.
+2. In your GitHub repository, delete or replace the current:
+   - index.html
+   - styles.css
+   - script.js
+   - old image files
+3. Click Add file > Upload files.
+4. Upload EVERY extracted file from this folder directly into the repository root.
+5. Do not upload the ZIP itself.
+6. Commit changes.
+7. Wait 2–5 minutes.
+8. Open https://freezle23.github.io and press Ctrl + Shift + R.
+
+The updated certificate section uses:
+- six-sigma-certificate.jpg
+- systeme-certificate.jpg
+- systeme-certificate.pdf
+
+The gallery includes professional photos and a separate Beyond Work section.
